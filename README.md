@@ -1,4 +1,4 @@
-![MasterHead](https://as2.ftcdn.net/v2/jpg/03/08/82/39/1000_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQFXUMCI_xZ3EQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1683909809034?e=1765411200&v=beta&t=VFcfIbQ28zGpXPWoCgfodrYLbOmeoJCpMO4kgT0i0Yw)
 <h1 align="center">Hi 👋, I'm Amin Sharilfi</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
