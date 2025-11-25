@@ -1,4 +1,4 @@
-![MasterHead]([https://standard-indigo-qtez6pnrkh.edgeone.app/123.gif](https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg))
+![MasterHead](https://as2.ftcdn.net/v2/jpg/03/08/82/39/1000_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)
 <h1 align="center">Hi 👋, I'm Amin Sharilfi</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
