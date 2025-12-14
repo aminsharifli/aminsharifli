@@ -1,4 +1,4 @@
-![MasterHead](https://photos.fife.usercontent.google.com/pw/AP1GczNfjOxsjmaUbVealZ1Q0Z7aQ8jszUjidJQ7OPGxB7Tv2IOuaOePwMut=w1920-h784-s-no-gm?authuser=0)
+![MasterHead](https://img.sanishtech.com/u/a31f28f06666a32be59345fdce8d4e25.png)
 <h1 align="center">Hi 👋, I'm Amin Sharilfi</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
