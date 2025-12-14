@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQFXUMCI_xZ3EQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1683909809034?e=1765411200&v=beta&t=VFcfIbQ28zGpXPWoCgfodrYLbOmeoJCpMO4kgT0i0Yw)
+![MasterHead](https://photos.fife.usercontent.google.com/pw/AP1GczNfjOxsjmaUbVealZ1Q0Z7aQ8jszUjidJQ7OPGxB7Tv2IOuaOePwMut=w1920-h784-s-no-gm?authuser=0)
 <h1 align="center">Hi 👋, I'm Amin Sharilfi</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
