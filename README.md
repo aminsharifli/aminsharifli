@@ -1,4 +1,3 @@
-![MasterHead](https://img.sanishtech.com/u/a31f28f06666a32be59345fdce8d4e25.png)
 <h1 align="center">Hi 👋, I'm Amin Sharilfi</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
