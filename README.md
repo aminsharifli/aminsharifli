@@ -1,42 +1,42 @@
-<h1 align="center">Hi 👋, I'm Amin Sharifli</h1>
-<h3 align="center">A passionate Frontend Developer from Azerbaijan 🇦🇿</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=120&section=header&text=Amin%20Sharifli&fontSize=50&fontColor=ffffff" width="100%"/>
+  
+  <h3>👨‍💻 Frontend Developer from Azerbaijan</h3>
+  <p>🚀 Studying at <b>Div Academy</b> | Building modern & responsive web applications</p>
+</div>
 
-<p align="center">
-  🔭 Currently studying at <b>Div Academy</b>
+---
+
+### 🤝 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/amin-sharifli-a094a7397" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://instagram.com/amin.sharifli" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+<a href="mailto:amin.sherifli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+### 🛠 Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="35"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/AJAX-blue?style=flat-square&logo=javascript&logoColor=white" height="35"/>
+  
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" height="35"/>
 </p>
 
 ---
 
-<h3 align="center">🌐 Connect with me</h3>
-
+### 📊 My GitHub Activity
 <p align="center">
-<a href="https://linkedin.com/in/amin-sharifli-a094a7397" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/amin.sharifli" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aminsharifli&show_icons=true&theme=gotham" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminsharifli&layout=compact&theme=gotham" />
 </p>
 
----
+<br />
 
-<h3 align="center">🛠️ Languages & Tools</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/ajax.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
-  <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" height="40"/>
-  <img src="https://pngimg.com/uploads/photoshop/photoshop_PNG2.png" height="40"/>
-</p>
-
----
-
-<h3 align="center">📧 Email</h3>
-
-<p align="center">
-  <a href="mailto:amin.sherifli@gmail.com">amin.sherifli@gmail.com</a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=100&section=footer" width="100%"/>
+</div>
