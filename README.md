@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=120&section=header&text=Amin%20Sharifli&fontSize=50&fontColor=ffffff" width="100%"/>
   
   <h3>👨‍💻 Frontend Developer from Azerbaijan</h3>
-  <p>🚀 Studying at <b>Div Academy</b> | Building modern & responsive web applications</p>
+  <p>🚀 Studying <b>Full Stack Web Development</b> at <b>Div Academy</b> </p>
 </div>
 
 ---
