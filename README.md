@@ -32,7 +32,7 @@
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminsharifli&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=121212&title_color=31A8FF&icon_color=31A8FF&text_color=BDC3C7" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminsharifli&theme=gotham&hide_border=true&layout=compact&langs_count=10&card_width=600" />
 </p>
 
 <br/>
