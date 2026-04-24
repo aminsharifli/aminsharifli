@@ -29,13 +29,13 @@
 
 ---
 
-### 📊 My GitHub Activity
+### 📊 Most Used Languages
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aminsharifli&show_icons=true&theme=gotham" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminsharifli&layout=compact&theme=gotham" />
+  <img width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminsharifli&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=121212&title_color=31A8FF&icon_color=31A8FF&text_color=BDC3C7" />
 </p>
 
-<br />
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=100&section=footer" width="100%"/>
