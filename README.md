@@ -31,10 +31,11 @@
 
 ---
 
-### 📊 Most Used Languages
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,tailwind,bootstrap,ps,git,github&theme=dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amin-sharifli&show_icons=true&theme=gotham&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amin-sharifli&theme=gotham&hide_border=true" />
 </p>
 
 <br/>
