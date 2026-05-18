@@ -34,8 +34,7 @@
 ### 📊 Most Used Languages
 
 <p align="center">
-  <!-- Bura dəqiq github istifadəçi adınızı yazın -->
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminsharifli&theme=gotham&hide_border=true&layout=compact&langs_count=10&card_width=600" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,tailwind,bootstrap,ps,git,github&theme=dark" />
 </p>
 
 <br/>
