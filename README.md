@@ -31,14 +31,14 @@
 
 ---
 
-### 💬 Dev Quote of the Day
+### ⚙️ My Dev Status
 
-<p align="center">
-  <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=gotham" alt="Dev Quote" />
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=100&section=footer" width="100%"/>
-</div>
+```javascript
+const developer = {
+  name: "Amin Sharifli",
+  role: "Frontend Developer",
+  skills: ["HTML5", "CSS3", "JavaScript", "Tailwind CSS"],
+  learning: "Full Stack Web Development",
+  coffeeConvertedToCode: true,
+  status: "Building the future of the web..."
+};
