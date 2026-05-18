@@ -31,11 +31,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 💬 Dev Quote of the Day
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amin-sharifli&show_icons=true&theme=gotham&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amin-sharifli&theme=gotham&hide_border=true" />
+  <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=gotham" alt="Dev Quote" />
 </p>
 
 <br/>
