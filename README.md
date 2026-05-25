@@ -24,6 +24,7 @@
 </div>
 
 <div align="center" style="margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
@@ -37,7 +38,7 @@
 const developer = {
   name: "Amin Sharifli",
   role: "Frontend Developer",
-  skills: ["HTML5", "CSS3", "JavaScript", "Tailwind CSS"],
+  skills: ["HTML5", "CSS3", "Sass", "JavaScript", "Tailwind CSS"],
   learning: "Full Stack Web Development",
   coffeeConvertedToCode: true,
   status: "Building the future of the web..."
